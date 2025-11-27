@@ -6,7 +6,6 @@ permalink: /about/
 
 * I write code.
 * I watch anime.
-* [Resume](https://github.com/misaka-10032/Resume/blob/master/resume.pdf)
 
 ### Fun projects
 

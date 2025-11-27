@@ -6,7 +6,7 @@
 name: Longqi Cai
 
 # Short bio or description (displayed in the header)
-description: Misaka-10032's tech notes
+description: A few tech notes
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.gravatar.com/avatar/6aa9753014abf8c30b9df37f3141e5e8?s=256
@@ -18,15 +18,15 @@ avatar: https://www.gravatar.com/avatar/6aa9753014abf8c30b9df37f3141e5e8?s=256
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: longqic@andrew.cmu.edu
-  facebook: # people/Longqi-Cai/100009869744795
+  email:
+  facebook:
   flickr:
   github: misaka-10032
   instagram:
-  linkedin: longqi-cai-966a3197
+  linkedin: longqicai
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: # longqicai
+  twitter:
   stackoverflow: users/3663161/misaka-10032 # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/

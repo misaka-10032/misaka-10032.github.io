@@ -10,4 +10,3 @@ permalink: /about/
 ### Fun projects
 
 * [Particle System Simulation](https://misaka-10032.github.io/particle-system/)
-* [LSTM in Halide](http://misaka-10032.github.io/Halstm/)
